@@ -41,6 +41,6 @@ Answer the following questions based on your understanding of Python programming
 - Your answers should be well-structured, concise, and to the point.
 - Provide code snippets or complete scripts where applicable.
 - Cite any references or sources you use in your answers.
-- Submit your completed assignment by [due date].
+- Submit your completed assignment by [due date].  
 
 
